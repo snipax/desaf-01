@@ -1,0 +1,47 @@
+body{
+  min-height: 100vh;
+  min-width: 100vh;
+}
+
+
+#main {
+  text-align: center;
+  margin: auto;
+}
+#main img {
+  margin: 0 auto 32px;
+}
+
+strong {
+  color: #828282;
+}
+
+span {
+ font-weight: bold;
+}
+
+.rosa {
+  color: #EE24FF;
+}
+
+.azul {
+  color: #3F3D56;
+}
+.line {
+  width: 568px;
+  height: 0;
+  margin: 0 auto 8px;
+  border: 1px solid #eceff2;
+}
+#links {
+  text-align: center;
+  margin: auto;
+}
+#links span {
+  margin: 0 12px;
+}
+#imgfooter {
+position: absolute;
+bottom: 0px;
+width: 100%;
+}
